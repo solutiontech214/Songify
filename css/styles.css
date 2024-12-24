@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.brand {
+    width: 100px; /* Set the width of the logo */
+    height: 80px; /* Maintain the aspect ratio */
+    margin-left: 0px;
+    
+}
+.navBarItems{
+    display:flex;
+    list-style-type:none;
+    padding:0%;
+}
+.navBar{
+    height:75px;
+    background-color: black;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+   
+}
+nav ul{
+    display: inline;
+    padding: 100px;
+    color:white;
+    align-items: center;
+}
+.brand1{
+    display: flex;
+    align-items: center;
+    font-family: "Montserrat", serif;
+    font-size: large;
+}
+.option
+{
+    padding-left:10%
+}
+.gradient-text {
+    background: linear-gradient(45deg, red, blue, green, yellow);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 2cap;
+}
