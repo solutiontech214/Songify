@@ -41,5 +41,6 @@ nav ul{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bold;
-    font-size: 3cap;
+    font-size: 2.5cap;
+    letter-spacing:2.5px;
 }
